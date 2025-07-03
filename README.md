@@ -6,6 +6,7 @@
 **Learn to create and use SQL views to:**
 
 Simplify complex queries using abstraction
+
 Secure sensitive information by restricting direct access
 
 **🛠️ Tools:**
